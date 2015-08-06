@@ -1,0 +1,406 @@
+﻿#EXTM3U tvg-shift=3
+
+
+
+
+
+
+#EXTINF:-1,ESTA LISTA ES CREACION DE https://www.facebook.com/groups/TODOKODI/   CON COLABORACION DE MIKESTAR
+
+
+
+#EXTINF:-1,DONACIONES PAYPAL------- ALEJO1821@HOTMAIL.COM
+
+
+
+#REQUISITO PARA QUE FUNCIONE TENER INSTALADO IPTV STALKER----  http://j.gs/9830047/iptv-stalker-10018
+
+
+
+#EXTINF:-1,RCN Televisión de Colombia
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTINF:-1,RCN Novelas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493 
+#EXTINF:-1,Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
+#EXTINF:-1,Caracol
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcaracoltvlivehds-lh.akamaihd.net%2Fi%2Fwowzalive_1%40126280%2Fmaster.m3u8
+#EXTINF:-1,Caracol Internacional
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+#EXTINF:-1,Señal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
+#EXTINF:-1,Señal Institucional
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Frtvc2live%2Famlst%3Ascolombia%2Fplaylist_b500000.m3u8%3F
+#EXTINF:-1, CANAL CAPITAL
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanalcapitallive%2Famlst%3Alive%2Fmaster.m3u8
+#EXTINF:-1,TELE PACIFICO
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Frtvc2live%2Famlst%3Ascolombia%2Fplaylist_b500000.m3u8%3F
+#EXTINF:-1,AMERICA ARGENTINA
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%2Flive%2Famrchd-360%2Fplaylist.m3u8
+#EXTINF:-1,Telefe
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%2Flive%2Ftlfhd-360%2Fplaylist.m3u8
+#EXTINF:-1,MAGAZINE
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fstream.mgzn.tv%2Flive%2Fmgzntv%2Fmgzntv
+#EXTINF:-1,TV PUBLICA 
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%3A1935%2Flive%2Ftvphd-360%2Fplaylist.m3u8
+#EXTINF:-1,TV PUBLICA 
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8
+#EXTINF:-1,EL TRECE HD
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,CANAL 13
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,OCHO TV 
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Tve 24h HD 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TeleSuR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+#EXTINF:-1,CNN HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1,EL TRECE HD
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,CANAL 13
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,OCHO TV 
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Tve 24h HD 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,HOGAR TV
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxhogartvx.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+#EXTINF:-1,Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1,CANAL TRECE
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanaltr3celive%2Flive-500%2FPAZ.m3u8
+#EXTINF:-1,Cine Dinamita
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
+#EXTINF:-1,Cinecanal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
+#EXTINF:-1,CineLatino
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
+#EXTINF:-1,Fox
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3947
+#EXTINF:-1,Paramount Channel Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
+#EXTINF:-1,Sundance Channel Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
+
+#EXTINF:-1,Mundo Fox
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+#EXTINF:-1,SyFy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+#EXTINF:-1,Fox 1 HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F433
+#EXTINF:-1,Fox 1 HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F439 
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F435
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F437 
+#EXTINF:-1,Fox Movies HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F463 
+#EXTINF:-1,Fox Cinéma
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F457 
+#EXTINF:-1,Fox Family
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F467
+#EXTINF:-1,Fox Comedy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
+#EXTINF:-1,HBO
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F385
+#EXTINF:-1,HBO2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F365
+#EXTINF:-1,HBO plus ESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F453
+#EXTINF:-1,HBO plus OESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F369
+#EXTINF:-1,HBO Family 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F449
+#EXTINF:-1,Max UP
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F469
+#EXTINF:-1,MAX
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F381
+#EXTINF:-1,Max Prime Este
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F377
+#EXTINF:-1,MaxPrime Oeste
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F379
+#EXTINF:-1,AMC
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F485
+#EXTINF:-1,Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F387
+#EXTINF:-1,Studio Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F345
+#EXTINF:-1,I.Sat
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1703
+#EXTINF:-1,Sony HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501 
+#EXTINF:-1,Warner Channel Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
+#EXTINF:-1,FX HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
+#EXTINF:-1,Tru TV America Latina
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
+#EXTINF:-1,A E 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
+#EXTINF:-1,E!
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
+#EXTINF:-1,AXN HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2493
+
+#EXTINF:-1,Cinemax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F343
+#EXTINF:-1,Europa Europa
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1597
+#EXTINF:-1,Film & Arts
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
+#EXTINF:-1,The Film Zone HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1055
+#EXTINF:-1,TNT HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F262
+#EXTINF:-1,TNT Series Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F331
+#EXTINF:-1,MultiPremier
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
+#EXTINF:-1,Golden Premier 1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
+#EXTINF:-1,Golden Multiplex
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1035
+#EXTINF:-1,Golden Edge 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
+#EXTINF:-1,Space
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
+#EXTINF:-1,TCM
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
+
+#EXTINF:-1,EL TRECE HD
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+#EXTINF:-1,TV MAS
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.7.98.234%2Frtv%2Fvideortv
+#EXTINF:-1,Telemar Mexico
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,CB Televisión Michoacán
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1,Telemax Mexico
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,Trecevisión Yucatan
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,TDT Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
+#EXTINF:-1,Quince TV Zacatecas México
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+#EXTINF:-1,KW TV México
+http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
+#EXTINF:-1,TV 4 Guanajuato
+http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CORtv Oaxaca México
+http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
+#EXTINF:-1,TV Independencia Hidalgo México
+http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
+#EXTINF:-1,Trecevisión Yucatan
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,Canal Once HD
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8 
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,AzMundo 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1999
+#EXTINF:-1,Gala TV 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4555
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Telemundo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4417
+#EXTINF:-1,Univision
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
+#EXTINF:-1,Canal De Las Estrellas 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4552
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4547
+#EXTINF:-1,Proyecto 40
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F05i15qzql_1%40149710%2Fmaster.m3u8
+#EXTINF:-1,AZTECA 13
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F1ym9yab3c_1%4066742%2Fmaster.m3u8 
+#EXTINF:-1,MEXICO 7
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F201.130.193.150%3A1935%2Fcodecsys%2Fsmil%3Aocho.smil%2Fmaster.m3u8 
+#EXTINF:-1,Unicable
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3804
+#EXTINF:-1,Unimas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+#EXTINF:-1,Tlnovelas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1461
+#EXTINF:-1,Pasiones
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
+#EXTINF:-1,Telecinco
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fmdsios2-lh.akamaihd.net%2Fi%2Fmitele%2Fesmediaset_21%40168473%2Findex_0_av-p.m3u8%3Fsd%3D10%26rebase%3Don
+#EXTINF:-1,LA 1
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F14420271%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+#EXTINF:-1,America TV Peru
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fooyalahd2-f.akamaihd.net%2Fi%2Fatv02_delivery%4025405%2Findex_564_av-p.m3u8
+#EXTINF:-1,PANAMERICANA
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fm.iblups.com%3A1935%2Flives%2Fptv1%2Fplaylist.m3u8
+#EXTINF:-1,ATV
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fedge-31-us.edge.mdstrm.com%2Flive%2Fsmil%3Ac23b8a0a21d215482b4c2703e47f675a%2Fplaylist.m3u8
+#EXTINF:-1,ATV +
+rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
+#EXTINF:-1,MEGA
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,BBC Entertainment
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1407
+#EXTINF:-1,Glitz
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1473
+#EXTINF:-1,Comedy Central 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1037 
+#EXTINF:-1,Distrito Comedia
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491 
+#EXTINF:-1,TBS
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333 
+#EXTINF:-1,Disney Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F256
+#EXTINF:-1,Disney XD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
+#EXTINF:-1,Disney Jr
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1455
+#EXTINF:-1,Nick
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1423 
+#EXTINF:-1,Nick Jr 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F417
+#EXTINF:-1,Cartoon Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421 
+#EXTINF:-1,Boomerang
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
+#EXTINF:-1,Tooncast
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
+#EXTINF:-1,CBeebies
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1029
+#EXTINF:-1,BabyFirst TV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1031
+#EXTINF:-1,Baby TV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F317
+#EXTINF:-1,Discovery Kids
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F309
+
+#EXTINF:-1,DRAGON BALL Z
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,History
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
+#EXTINF:-1,H2 Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F297
+
+#EXTINF:-1,Discovery Channel Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3531
+
+#EXTINF:-1,Discovery World 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3529
+#EXTINF:-1,Discovery Theater 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3798
+#EXTINF:-1,Discovery Home & Health
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F252
+
+#EXTINF:-1,Investigación Discovery
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F455 
+
+#EXTINF:-1,TLC
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F327
+#EXTINF:-1,NatGeo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F395
+#EXTINF:-1,NatGeo Wild
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F254
+#EXTINF:-1,Animal Planet
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F441
+#EXTINF:-1,Fox Life
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F425
+#EXTINF:-1,LIFETIME
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F423
+#EXTINF:-1,BeinSports en Español
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+#EXTINF:-1,GOLTV
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+#EXTINF:-1,Fox Sports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+#EXTINF:-1,Fox Sports 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+#EXTINF:-1,Fox Sports 3 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+#EXTINF:-1,ESPN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+#EXTINF:-1,ESPN 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301 
+#EXTINF:-1,ESPN 3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3806
+#EXTINF:-1,Golf Channel Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
+#EXTINF:-1,NBA
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2347
+#EXTINF:-1,UFC Network USA
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2923
+#EXTINF:-1,UFC Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+#EXTINF:-1,F1 Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
+#EXTINF:-1,PLANETA FUTBOL
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
+#EXTINF:-1,Planeta Futbol English Soccer
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
+#EXTINF:-1,AZTECA DEPORTES
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:1,TDN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+#EXTINF:1,Univision TDN 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
+#EXTINF:-1,Motors TV
+http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,CDN-SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLAFC
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:-1,VH1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483 
+#EXTINF:-1,MTV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2491
+#EXTINF:-1,MTV ROCKS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8 
+#EXTINF:-1,Concert Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
+
+#EXTINF:-1,Bandamax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467 
+#EXTINF:-1,Kiss tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,K Music
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467 
+#EXTINF:-1,A-ONE
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?=-1
+#EXTINF:-1,Q Musica 
+mms://200.42.92.6:1755/qmusica 
+#EXTINF:-1,NTN 24
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
+#EXTINF:-1,CNN Español
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+#EXTINF:-1,RT en Español
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8
+#EXTINF:-1,Azteca Noticias
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F077zoqxzy_1%40130091%2Findex_3_av-p.m3u8
+#EXTINF:-1,C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info> <!-- this is optional -->
+      <title>fernando list</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>PELICULAS Y SERIES</genre>
+      <description>VARIEDAD DE CONTENIDOS</description>
+      <thumbnail>http://k4.usastreams.com:82/storage/499/PELI.jpg</thumbnail>
+      <fanart>http://k4.usastreams.com:82/storage/499/PELIS.jpg</fanart>
+      <date>2015</date>
+      <credits>fernando, correo  solerafer@gmail.com</credits>
+    </channels_info>
+	 
+    <channel>
+    <name>PELICULAS</name>
+    <info>variedad de peliculas</info>
+    <thumbnail>http://k4.usastreams.com:82/storage/499/cine.jpg</thumbnail>
+    <fanart>http://k4.usastreams.com:82/storage/499/peliculas-series.jpg</fanart>
+
+    <item>
+	<title>CARRERA INFERNAL</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:peaccion/CarreraInfernal.mp4/playlist.m3u8</link>
+    <thumbnail> http://k4.usastreams.com:82/storage/499/iconope/carrerainfernal.jpg</thumbnail>
+    </item>
+
+    <item>
+	<title>CELULAR</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:peaccion/celular.mp4/playlist.m3u8</link>
+    <thumbnail>http://k4.usastreams.com:82/storage/499/iconope/CELULAR_POSTER.jpg</thumbnail>
+    </item>
+
+    <item>
+	<title>DRIVEHARD</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:peaccion/DriveHard.mp4/playlist.m3u8</link>
+    <thumbnail>http://k4.usastreams.com:82/storage/499/iconope/driceharz.jpg</thumbnail>
+    </item>
+
+	</channel>
+	
+    <channel>
+    <name>SERIES</name>
+    <info>SERIES</info>
+    <thumbnail>http://k4.usastreams.com:82/storage/499/iconope/seriestv.png</thumbnail>
+    <fanart>http://k4.usastreams.com:82/storage/499/iconope/series.jpg</fanart>
+
+    <item>
+	<title>PRINCEPE DEL RAP S01C01</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:PRINCIPETEM1/1cap.mp4/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>PRINCEPE DEL RAP S01C02</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:PRINCIPETEM1/2cap.mp4/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>PRINCEPE DEL RAP S01C03</title>
+	<link>http://k3.usastreams.com:1935/vod499/_definst_/mp4:PRINCIPETEM1/3cap.mp4/playlist.m3u8</link>
+    <thumbnail>http://k4.usastreams.com:82/storage/499/iconope/PRINCEPE.jpg</thumbnail>
+    </item>
+
+	</channel>
+
+	</channels>
